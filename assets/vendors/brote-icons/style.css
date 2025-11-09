@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?vwucc1');
+    src: url('fonts/icomoon.eot?vwucc1#iefix') format('embedded-opentype'), url('fonts/icomoon.ttf?vwucc1') format('truetype'), url('fonts/icomoon.woff?vwucc1') format('woff'), url('fonts/icomoon.svg?vwucc1#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-message:before {
+    content: "\e900";
+}
+
+.icon-time:before {
+    content: "\e901";
+}
+
+.icon-phone-call:before {
+    content: "\f2a0";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-magnifying-glass:before {
+    content: "\f002";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-location:before {
+    content: "\e904";
+}
+
+.icon-tick:before {
+    content: "\e905";
+}
+
+.icon-plumbing:before {
+    content: "\f0ad";
+     font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-worker:before {
+    content: "\e907";
+}
+
+.icon-laundry:before {
+    content: "\f553";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-washing-plate:before {
+    content: "\e51a";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-window-cleaner:before {
+    content: "\f51a";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-sanitary:before {
+    content: "\e90b";
+}
+
+.icon-laundry-1:before {
+    content: "\f118";
+      font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-wipe:before {
+    content: "\f201";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-teamwork:before {
+    content: "\e533";
+     font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-trophy:before {
+    content: "\f091";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-quote:before {
+    content: "\e910";
+}
+
+.icon-phone:before {
+    content: "\f2a0";
+     font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-envelope:before {
+    content: "\f0e0";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-location-1:before {
+    content: "\f3c5";
+     font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-house-cleaning:before {
+    content: "\f19c";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-find-my-friend:before {
+    content: "\e915";
+}
+
+.icon-buildings:before {
+    content: "\e4db";
+    font-family:"Font Awesome 6 Free";
+font-weight: 900;
+}
+
+.icon-choose:before {
+    content: "\e917";
+}
+
+.icon-tick-mark:before {
+    content: "\e918";
+}
+
+.icon-household:before {
+    content: "\e919";
+}
+
+.icon-broom:before {
+    content: "\e91a";
+}
+
+.icon-checked:before {
+    content: "\e91b";
+}
+
+.icon-check:before {
+    content: "\e91c";
+}
+
+.icon-plus-symbol:before {
+    content: "\e91d";
+}
